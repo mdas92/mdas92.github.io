@@ -12,12 +12,12 @@ var b = {
 var colors = {
 "launch":   "#d68b00",
 "import_sa": "734E84",
-"save_aa":  "800000",
+"save_aa":  "12dd33",
 "aa_usage":"00bdea",
-"save_sa":"2653fa",
+"save_sa":"#226722",
 "export_sa":"9D1946",
 "aa_metrics":"2b5797",
-"sa_used":"6845ab",
+"sa_used":"ff1212",
 "open_dialog":"#0000ff",
 "create_from_sa":"000080",
 "execute_sa":"ff8aee"
