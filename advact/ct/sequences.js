@@ -10,17 +10,17 @@ var b = {
 
 // make `colors` an ordinal scale
 var colors = {
-"launch": "#d68b00",
-"import_sa": "9D1946",
-"save_aa":"00bdea",
+"launch":   "#d68b00",
+"import_sa": "734E84",
+"save_aa":  "800000",
 "aa_usage":"00bdea",
-"save_sa":"9D1946",
+"save_sa":"2653fa",
 "export_sa":"9D1946",
-"aa_metrics":"00bdea",
-"sa_used":"9D1946",
+"aa_metrics":"2b5797",
+"sa_used":"6845ab",
 "open_dialog":"#0000ff",
-"create_from_sa":"9D1946",
-"execute_sa":"9D1946"
+"create_from_sa":"000080",
+"execute_sa":"ff8aee"
 };
 
 //naming convention for legend
