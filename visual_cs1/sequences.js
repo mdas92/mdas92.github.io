@@ -19,7 +19,7 @@ var colors = {
 "cap": "#1e8145",
 "prop": "#ff0079",
 "publ": "#ff8aee",
-"lms": "#8b008b",
+"lms": "#ff8aee",
 "pvw": "#ff8ae1",
 "qs": "#00bdea",
 "open": "#00bdea",
