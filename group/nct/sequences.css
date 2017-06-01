@@ -10,11 +10,12 @@ body {
 
 #main {
   float: left;
-  width: 1000px;
+  width: 600px;
 }
 
 #sidebar {
-  margin-left:1000px;
+  padding-top: 50px;
+  margin-left:600px;
   width: 700px;
 }
 #reset_button{
@@ -60,7 +61,7 @@ background-color: #000000;
 #explanation {
   position: absolute;
   top: 260px;
-  left: 430px;
+  left: 230px;
   width: 140px;
   text-align: center;
   color: #666;

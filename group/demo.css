@@ -1,0 +1,5 @@
+iframe.noScrolling{
+           width: 45%; /*or any other size*/
+           height: 95%; /*or any other size*/
+           overflow: hidden;
+        }
