@@ -168,7 +168,7 @@ var vis = d3.select("#chart").append("svg:svg")
     .attr("height", height)
     .append("svg:g")
     .attr("id", "container")
-    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+    .attr("transform", "translate(" + 300 + "," + height / 2 + ")");
 
 var partition = d3.layout.partition()
     .size([2 * Math.PI, radius * radius])
